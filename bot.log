@@ -1,0 +1,87 @@
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T05:52:59.157Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T05:52:59.197Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T05:52:59.200Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T05:53:06.331Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:53:06.332Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T05:53:30.106Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:53:30.106Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T05:53:39.111Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:53:39.112Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T05:55:53.901Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T05:55:53.939Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T05:55:53.942Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T05:55:57.421Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:55:57.422Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T05:56:05.211Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:56:05.213Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T05:56:16.218Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:56:16.219Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T05:56:36.033Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T05:56:36.062Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T05:56:36.065Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T05:56:39.378Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T05:56:39.378Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:01:36.781Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:01:36.824Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:01:36.828Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:01:41.454Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:01:41.455Z"}
+{"level":"info","message":"{\"type\":\"message\",\"channel\":\"D14SX9142\",\"user\":\"U0LPRQTE1\",\"text\":\"chicken\",\"ts\":\"1461996105.000005\",\"team\":\"T0LPUJFRP\",\"event\":\"direct_message\",\"match\":[\"chicken\"]}","timestamp":"2016-04-30T06:01:45.653Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:06:19.803Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:06:19.861Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:06:19.864Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:06:23.707Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:06:23.709Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:06:24.620Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:06:24.621Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:06:30.533Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:06:30.533Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:10:27.841Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:10:27.897Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:10:27.901Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:10:34.590Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:10:34.591Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:11:24.074Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:11:24.106Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:11:24.112Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:11:27.822Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:11:27.823Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:11:58.413Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:11:58.443Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:11:58.446Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:12:01.939Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:12:01.940Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:15:33.346Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:15:33.387Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:15:33.390Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:15:38.853Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:15:38.854Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:15:52.096Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:15:52.097Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:17:23.471Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:17:23.512Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:17:23.514Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:17:27.139Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:17:27.140Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:17:29.057Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:17:29.058Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:17:35.061Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:17:35.061Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T06:22:26.820Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T06:22:26.861Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T06:22:26.865Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T06:22:31.259Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:22:31.260Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:22:34.260Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:22:34.261Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T06:22:39.263Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T06:22:39.263Z"}
+{"level":"info","message":"** Using simple storage. Saving data to ./db_slackbutton_bot/","timestamp":"2016-04-30T07:23:39.343Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-04-30T07:23:39.388Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-04-30T07:23:39.391Z"}
+{"type":"presence_change","presence":"active","user":"U14SA2XN0","level":"info","message":"","timestamp":"2016-04-30T07:23:43.028Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T07:23:43.029Z"}
+{"type":"presence_change","presence":"away","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T07:23:50.634Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T07:23:50.635Z"}
+{"type":"presence_change","presence":"active","user":"U0LPRQTE1","level":"info","message":"","timestamp":"2016-04-30T07:23:58.638Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/im.open","timestamp":"2016-04-30T07:23:58.638Z"}

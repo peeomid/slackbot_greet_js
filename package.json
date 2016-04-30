@@ -1,0 +1,16 @@
+{
+  "name": "js_slackbot_greet",
+  "version": "1.0.0",
+  "description": "greet new comer to slack team",
+  "main": "slackbot_greet.js",
+  "dependencies": {
+    "botkit": "^0.1.1",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peeomid",
+  "license": "ISC"
+}
