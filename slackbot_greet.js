@@ -35,6 +35,8 @@ bot.startRTM(function(err,bot,payload) {
   }
 });
 
+// Send direct message when a person change presence
+// Let's annoy him/her for changing!
 controller.on('presence_change', function(bot, message){	
 	controller.logger.info(message);
 	user = message.user
@@ -50,3 +52,18 @@ controller.on('presence_change', function(bot, message){
 	})
 
 });
+
+// Greet new user joining the team
+controller.on('team_join', function(bot, message) {
+	user_id = message.user['id'];
+
+	slack_helper.getDirectMessageChannel(bot, user, function(err, res){
+		if (!err) {			
+			console.log(res)
+			channel = res.channel['id']			
+			message = 'Welcome to the team, <@' + user + '>';
+			slack_helper.sendMessage(bot, channel, message);
+			
+		}		
+	})	
+})
