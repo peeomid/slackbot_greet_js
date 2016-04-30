@@ -1,1 +1,1 @@
-# slackbot_greet_js
+Slack bot to greet new user joining a team, making use of botkit.
